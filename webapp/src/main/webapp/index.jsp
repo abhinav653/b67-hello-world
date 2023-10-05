@@ -4,7 +4,7 @@
   <title>push-image-docker-hub-from-ansible-node</title>
   <style>
     body {
-      background-color: yellow;
+      background-color: green;
     }
   </style>
 </head>
