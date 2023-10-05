@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Sample Test Page</title>
+  <title>push-image-docker-hub-from-ansible-node</title>
   <style>
     body {
       background-color: yellow;
